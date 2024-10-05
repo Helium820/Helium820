@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Helium</h1>
 
 <!--
-<h3 align="center">Data Scientist specializing in computer vision and deep learning applications.</h3>
 
 **Helium820/Helium820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
