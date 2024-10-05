@@ -7,7 +7,7 @@
 
 - 🔭 My works are mostly on **Earth System Science, GIS, Data Analytics, Machine learning Pipeline, Computer Vision, Automated Operating Systems**
 - 🤝 I’m looking for: **Computer Vision Engineer / Data Scientist**
-- 🌱 I’m currently learning: **Remote Sensing / 3D Reconstruction / Parallel Computing / Graph Neural Network / Generative Models**
+- 🌱 I’m currently learning: **3D Reconstruction / Parallel Computing / Graph Neural Network**
 - 📫 How to reach me **fungng820@gmail.com**
 - 🌏 Also interested in **Environmental Intelligence**
 
