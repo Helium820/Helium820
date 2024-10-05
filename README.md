@@ -5,7 +5,7 @@
 **Helium820/Helium820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 My works are mostly on **Earth System Science, GIS, Data Analytics, Machine learning Pipeline, Computer Vision, Automated Operating Systems**
+- 🔭 My works are mostly on **Earth System Science, GIS, Data Analytics, Machine learning Pipeline, Computer Vision, Systems Automation**
 - 🤝 I’m looking for: **Computer Vision Engineer / Data Scientist**
 - 🌱 I’m currently learning: **3D Reconstruction / Parallel Computing / Graph Neural Network**
 - 📫 How to reach me **fungng820@gmail.com**
