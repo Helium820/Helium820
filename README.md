@@ -13,7 +13,7 @@
 
 - 🌏 Also interested in **Environmental Intelligence**
 
-- 📫 Feel free to contact me at [email](fungng820@gmail.com) or [Linkedlin](https://www.linkedin.com/in/tsan-fung-ng-2a84aa237/)
+- 📫 Feel free to contact me at **fungng820@gmail.com** or [Linkedlin](https://www.linkedin.com/in/tsan-fung-ng-2a84aa237/)
 
 
 
