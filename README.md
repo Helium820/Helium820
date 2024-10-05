@@ -7,9 +7,13 @@
 -->
 
 - 🔭 My works are mostly on **Earth System Science, GIS, Data Analytics, Machine learning Pipeline, Computer Vision, Systems Automation**
+
 - 🤝 I’m looking for: **Computer Vision Engineer / Data Scientist**
+
 - 🌱 I’m currently learning: **3D Reconstruction / Parallel Computing / Graph Neural Network**
+
 - 🌏 Also interested in **Environmental Intelligence**
+
 - 📫 Feel free to contact me at [email](fungng820@gmail.com) or [Linkedlin](https://www.linkedin.com/in/tsan-fung-ng-2a84aa237/)
 
 
