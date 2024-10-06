@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for: **Computer Vision Engineer / Data Scientist**
 
-- 🌱 I’m currently learning: **3D Reconstruction / Parallel Computing / Graph Neural Network**
+- 🌱 I’m currently learning: **LiDAR Point Cloud / 3D Reconstruction / Parallel Computing / Graph Neural Network**
 
 - 🌏 Also interested in **Environmental Intelligence**
 
