@@ -5,13 +5,11 @@
 **Helium820/Helium820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 My works are mostly on **Earth System Science, GIS, Data Analytics, Machine learning Pipeline, Computer Vision, Systems Automation**
+- 🔭 My works are mostly on **Earth System Science, GIS, Predictive Modeling, Data Analytics, Machine learning Pipeline, Computer Vision, Systems Automation**
 
-- 🤝 I’m looking for: **Computer Vision Engineer / Data Scientist**
+- 🌱 I’m currently learning: **3D Reconstruction / Parallel Computing / Graph Neural Network / Diffusion & GenAI**
 
-- 🌱 I’m currently learning: **LiDAR Point Cloud / 3D Reconstruction / Parallel Computing / Graph Neural Network**
-
-- 🌏 Also interested in **Environmental Intelligence**
+- 🌏 Also interested in **Environmental Intelligence**, combining AI to solve environmental challenges
 
 - 📫 Feel free to contact me at **fungng820@gmail.com** or [Linkedlin](https://www.linkedin.com/in/tsan-fung-ng-2a84aa237/)
 
